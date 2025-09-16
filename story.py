@@ -15,7 +15,8 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
-    peinr("You feel hypnotized, drawn to the squirrel, agreeing to fight it openly.")
+    print("You feel hypnotized, drawn to the squirrel, agreeing to fight it openly.")
+    print("You're defeated quickly, and whatever invaded the squirrel took over your body. You're now a puppet to evil!")
 
 def center_path():
     print("")
