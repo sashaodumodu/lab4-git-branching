@@ -10,14 +10,14 @@ Branches in this repo (with details):
     ac9209d | Author: sashaodumodu <odumodusasha@gmail.com> | Committer: sashaodumodu <odumodusasha@gmail.com> | Date: 2025-09-16T14:28:18-04:00 | Restoring manually
     445046e | Author: sashaodumodu <odumodusasha@gmail.com> | Committer: sashaodumodu <odumodusasha@gmail.com> | Date: 2025-09-16T14:07:47-04:00 | Added a third print statement for the hero path
 - main
-  SHA: 6be45062e22362f86a4ac248acd5b6d4eb25cf63
-  Commits: 5
+  SHA: c8e0e3a31db186a16909a1efd1198e95298b3eb9
+  Commits: 9
   Recent commits:
+    c8e0e3a | Author: Sasha Odumodu <189272304+sashaodumodu@users.noreply.github.com> | Committer: Sasha Odumodu <189272304+sashaodumodu@users.noreply.github.com> | Date: 2025-09-18T01:56:34Z | Merge branch 'villian-path' and making sure its locally stored
+    8962c96 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T18:56:55Z | Auto-update branch-info.txt
+    ed0b506 | Author: Sasha Odumodu <189272304+sashaodumodu@users.noreply.github.com> | Committer: Sasha Odumodu <189272304+sashaodumodu@users.noreply.github.com> | Date: 2025-09-16T18:56:25Z | Added the third statement for the villain
+    2451080 | Author: Sasha Odumodu <189272304+sashaodumodu@users.noreply.github.com> | Committer: Sasha Odumodu <189272304+sashaodumodu@users.noreply.github.com> | Date: 2025-09-16T18:55:19Z | Added a second statement for villian
     6be4506 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T18:44:56Z | Auto-update branch-info.txt
-    747daf7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T18:34:13Z | Auto-update branch-info.txt
-    59eb446 | Author: sashaodumodu <odumodusasha@gmail.com> | Committer: sashaodumodu <odumodusasha@gmail.com> | Date: 2025-09-16T14:25:01-04:00 | Added a center path.
-    d7932c9 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T13:53:16Z | Auto-update branch-info.txt
-    2e98ba2 | Author: sashaodumodu <189272304+sashaodumodu@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T09:53:07-04:00 | Initial commit
 - villian-path
   SHA: ed0b506b56478c05fd5d954f26e74ed31a93d4c1
   Commits: 7
